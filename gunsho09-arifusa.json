@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/arifusa",
  "yomi": "みなもとのありふさあそんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安末期",
+  "author": "源有房",
+  "desc": "村上源氏の源有房の家集。賀茂の歌合などの題詠のほか、高倉院の諒闇の年の歌を収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -1193,6 +1198,6 @@
   "poems": 102,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
